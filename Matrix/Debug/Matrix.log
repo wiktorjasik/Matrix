@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Matrix.cpp
+d:\projekty\visual\matrix\matrix\matrix.cpp(202): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Matrix.vcxproj -> D:\Projekty\Visual\Matrix\Debug\Matrix.exe
